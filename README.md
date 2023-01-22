@@ -16,9 +16,9 @@
 
 
 ```python
-Name = "Ibany"
+Name = "ARCADIA"
 Class = "12th"
-Age = "38"
+Age = "25"
 Country = "CU"
 ```
 
