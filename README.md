@@ -29,7 +29,7 @@ Country = "CU"
 <br>
 
 ----
-![GitHub followers](https://img.shields.io/github/followers/LEGEND-AI?label=Follow&style=social)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=LEGEND-AI.LEGEND-AI)
 [![Profile views](https://komarev.com/ghpvc/?username=LEGEND-AI&label=Profile%20views)](https://github.com/LEGEND-AI)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-AI)
